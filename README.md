@@ -1,6 +1,6 @@
 **Module Name:** react-native-gpt
 
- [Npm package](https://www.npmjs.com/package/react-native-gpt).
+ [Npm package](https://www.npmjs.com/package/react-native-gpt)
 
 **Description:**
 
