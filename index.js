@@ -19,7 +19,7 @@ export default async function react_native_gpt({
   setResult,
 }) {
   const options = {
-    method: "POST", // Dodaj metodę POST
+    method: "POST", 
     headers: {
       "Content-Type": "application/json",
       Authorization: `Bearer ${API_KEY}`,
@@ -27,7 +27,7 @@ export default async function react_native_gpt({
     body: JSON.stringify({
       model: model,
       messages: messages,
-      // temperature: 0.7,
+    
       stream: stream,
     }),
   };
