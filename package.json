@@ -1,0 +1,48 @@
+{
+  "name": "react-native-gpt",
+  "version": "3.2.7",
+  "description": "react native gpt stream api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike-Csta/react-native-gpt.git"
+  },
+  "keywords": [
+    "gpt",
+    "chatgpt",
+    "chat",
+    "react",
+    "native",
+    "stream",
+    "chunk",
+    "javascript",
+    "api",
+    "sse",
+    "natural-language-processing",
+    "ai-chatbot",
+    "machine-learning",
+    "stream-handler",
+    "chatbot",
+    "ai",
+    "real-time-chat",
+    "server-sent-events",
+    "gpt-4",
+    "gpt-3",
+    "gpt-3-turbo",
+    "openai-api",
+    "openai",
+    "react-native"
+  ],
+  "author": "Mike Csta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mike-Csta/react-native-gpt/issues"
+  },
+  "homepage": "https://github.com/Mike-Csta/react-native-gpt#readme",
+  "dependencies": {
+    "react-native-event-source": "^1.1.0"
+  }
+}
