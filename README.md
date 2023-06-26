@@ -1,5 +1,7 @@
 **Module Name:** react-native-gpt
 
+ [Npm package]([https://www.kalisz.pl/dla-mieszkanca/aktualnosci/edukacja/konkurs-aplikacja-dla-kalisza-roztrzygniety,50007](https://www.npmjs.com/package/react-native-gpt)).
+
 **Description:**
 
 The `react-native-gpt` module enables convenient use of gpt models in React Native applications. This module provides asynchronous features for managing the connection to the OpenAI service, allowing you to easily generate and stream results from GPT-3, GPT-3.5-turbo, GPT-4 model.
