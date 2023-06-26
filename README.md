@@ -1,4 +1,5 @@
-**Module Name:** react-native-gpt/
+**Module Name:** react-native-gpt
+
 **Author:** Mike Csta
 
  [Npm package](https://www.npmjs.com/package/react-native-gpt)
