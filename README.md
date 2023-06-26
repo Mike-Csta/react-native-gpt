@@ -1,4 +1,5 @@
 **Module Name:** react-native-gpt
+**Author:** me
 
  [Npm package](https://www.npmjs.com/package/react-native-gpt)
 
