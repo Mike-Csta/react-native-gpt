@@ -12,9 +12,9 @@ Using npm:
 npm install react-native-gpt
 ```
 
-**Użycie:**
+**Use:**.
 
-Importuj funkcję z modułu:
+Import function from module:
 
 ```javascript
 import react_native_gpt from "react-native-gpt";
@@ -33,7 +33,7 @@ react_native_gpt({
 }).then(() => console.log("Done"));
 ```
 
-** API Documentation:**.
+** API Documentation:**
 
 The `react_native_gpt` function accepts a configuration object with the following fields:
 
