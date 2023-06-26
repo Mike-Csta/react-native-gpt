@@ -1,6 +1,6 @@
 **Module Name:** react-native-gpt
 
- [Npm package]([https://www.kalisz.pl/dla-mieszkanca/aktualnosci/edukacja/konkurs-aplikacja-dla-kalisza-roztrzygniety,50007](https://www.npmjs.com/package/react-native-gpt)).
+ [Npm package](https://www.npmjs.com/package/react-native-gpt).
 
 **Description:**
 
